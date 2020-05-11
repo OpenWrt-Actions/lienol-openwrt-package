@@ -963,8 +963,9 @@ button:focus {
 .cbi-button-remove,
 .cbi-input-remove,
 .cbi-section-remove input {
-    border-color: #c44;
-    color: #c44;
+    border-color: red;
+    background-color: red;
+    color: #fff;
 }
 
 .cbi-button-remove:active,
