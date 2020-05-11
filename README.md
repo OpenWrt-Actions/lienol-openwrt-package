@@ -1,5 +1,7 @@
 # openwrt-package
 
+luci-app-passwall停止开发，当然如果存在BUG，欢迎各位大佬PR。
+
 [OpenWRT-Actions](https://github.com/Lienol/openwrt-actions/actions)
 
 请使用[基于官方openwrt源码](https://github.com/Lienol/openwrt) 和 [基于大雕源码](https://github.com/Lienol/openwrt/tree/dev-lean-lede)源码编译
